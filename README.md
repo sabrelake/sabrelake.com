@@ -1,12 +1,5 @@
-## Sabrelake
+## Readme
 
-#### <enquiries@sabrelake.com>
+Edit the index.md file.
 
-
-
-
-
-
-
-
-######  Sabrelake Ltd trading as Sabrelake. Registered in England. Company No: 12176389. Registered office: 1168 Melton Road, Syston, Leicester, England, LE7 2HB
+Just to note, the changes may take a while to register through on the website.
