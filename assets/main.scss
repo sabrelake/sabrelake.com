@@ -1,0 +1,53 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css2?family=Unna&display=swap');
+
+
+body {
+  /* background-color: #1f3864;  */
+  background-color: #0a364a;
+  font-family: 'Unna', serif;
+}
+
+
+/* hide header */
+header {
+  display: none;  
+}
+
+/* hide footer */
+footer {
+  display: none;  
+}
+
+
+
+h1 {
+   font-family: 'Unna', serif;
+    font-weight: 800;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: xxx-large;
+    margin: 4em;
+    /* color: #1f3864;  */
+    color: #fff;
+}
+
+
+h4, h4 a, h4 a:hover {
+    font-family: 'Unna', serif;
+    text-align: center;
+    font-size: x-large;
+    margin: 4em;
+    /* color: #1f3864; */
+    color: #fff;
+}
+
+p, h2 {
+   font-family: 'Unna', serif;
+  color: #fff;
+}
